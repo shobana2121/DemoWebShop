@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-03-25T20:09:10 IST" name="Default suite" finished-at="2026-03-25T20:10:08 IST" duration-ms="57972">
+    <groups>
+    </groups>
+    <test started-at="2026-03-25T20:09:10 IST" name="Default test" finished-at="2026-03-25T20:10:08 IST" duration-ms="57972">
+      <class name="com.test.CartTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.test.CartTest@5e0e82ae]" started-at="2026-03-25T20:09:10 IST" name="setup" finished-at="2026-03-25T20:09:17 IST" duration-ms="7098" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyCartPage()[pri:0, instance:com.test.CartTest@5e0e82ae]" started-at="2026-03-25T20:09:17 IST" name="verifyCartPage" finished-at="2026-03-25T20:10:05 IST" duration-ms="47515" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyCartPage -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.test.CartTest@5e0e82ae]" started-at="2026-03-25T20:10:05 IST" name="teardown" finished-at="2026-03-25T20:10:08 IST" duration-ms="3284" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.test.CartTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
